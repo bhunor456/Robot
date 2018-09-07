@@ -1,1 +1,0 @@
-print ("műkszik a virtualenv")
